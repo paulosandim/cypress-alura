@@ -1,0 +1,22 @@
+{
+  "name": "cypress-alura",
+  "version": "1.0.0",
+  "description": "\"# cypress-alura\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulosandim/cypress-alura.git"
+  },
+  "author": "Paulo Sandim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulosandim/cypress-alura/issues"
+  },
+  "homepage": "https://github.com/paulosandim/cypress-alura#readme",
+  "devDependencies": {
+    "cypress": "^9.6.0"
+  }
+}
