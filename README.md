@@ -1,7 +1,3 @@
-# Course Link
-
-> https://cursos.alura.com.br/course/cypress-automacao-testes-e2e
-
 ## Build Setup
 
 ``` bash
